@@ -1,0 +1,40 @@
+body{
+  background-color: #FFF8EA;
+  margin: 0px;
+  text-align: center;
+  font-family: sans-serif;
+}
+  .hr1{
+    border-style: groove;
+    border-color: black;
+    border-width: 2px;
+    height: 0;
+    width:80%;
+  }
+.top-container{
+  position: relative;
+  background-color: #CDFCF6;
+  padding-top: 100px;
+}
+.top-cloud{
+  position:absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloub{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+h1{
+  margin-top:auto;
+  font-family: 'Mitr',sans-serif;
+  font-size: 90px;
+}
+h3 {
+ color: #42855B ;
+}
+#font-notosansTH {
+    font-family: "Noto Sans Thai", sans-serif;
+    font-size: 2.5rem;
+}
