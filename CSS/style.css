@@ -1,7 +1,6 @@
 body{
-  background-color: #FFF8EA;
+  background-color: #FFCACA;
   margin: 0px;
-  text-align: center;
   font-family: sans-serif;
 }
   .hr1{
@@ -31,10 +30,29 @@ h1{
   font-family: 'Mitr',sans-serif;
   font-size: 90px;
 }
-h3 {
- color: #42855B ;
+.bg-color{
+ background-color: #FF9494;
+ width: 750;
+ height: 400;
+ padding: 10px;
+ margin: auto;
+ border-radius: 30px;
 }
 #font-notosansTH {
     font-family: "Noto Sans Thai", sans-serif;
     font-size: 2.5rem;
+}
+
+.profile-img{
+  width: 20%;
+  margin-top: 100px;
+}
+
+.profile{
+  padding:50px;
+  margin: auto;
+}
+
+.pad{
+  padding-left: 20px;
 }
